@@ -14,7 +14,7 @@ git push -u origin master
 git remote add origin https://github.com/ghairui/gitTest.git
 git push -u origin master
 ```
-当修改的时候，再次提交
+上面git remote add时报已存在，当修改的时候，再次提交
 
 ```
 git add .

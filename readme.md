@@ -24,3 +24,9 @@ git push -u origin master
 
 ```
 在线改
+
+再次拉取,将线上改的拉到本地当前分支
+```
+ git pull origin master
+```
+可参考链接https://blog.csdn.net/weijinqian0/article/details/76217014
